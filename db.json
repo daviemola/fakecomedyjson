@@ -1,0 +1,39 @@
+{
+  "upcoming_shows": [
+    {
+      "id": 1,
+      "name": "Charli XCX: CRASH The Live Tour 2022",
+      "date": "Nov 25, 2021",
+      "city": "New York",
+      "venue": "Manhattan"
+    },
+    {
+      "id": 2,
+      "name": "Britney: CRASH The Live Tour 2021",
+      "date": "Nov 25, 2021",
+      "city": "Los Angeles",
+      "venue": "The Dome"
+    },
+    {
+      "id": 3,
+      "name": "Lopez JLO: CRASH The Live Tour 2023",
+      "date": "Nov 25, 2021",
+      "city": "Boston",
+      "venue": "Arena"
+    },
+    {
+      "id": 4,
+      "name": "Tihanna K: CRASH The Live Tour 2022",
+      "date": "Nov 25, 2021",
+      "city": "Washington",
+      "venue": "Sufolk"
+    },
+    {
+      "id": 5,
+      "name": "Tiffany Brit: CRASH The Live Tour 2022",
+      "date": "Nov 25, 2021",
+      "city": "San Fransisco",
+      "venue": "Carlif"
+    }
+  ]
+}
