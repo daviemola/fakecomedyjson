@@ -5,45 +5,160 @@
       "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068179/up-coming-1_bmprd7.jpg",
       "name": "Charli XCX: CRASH The Live Tour 2022",
       "date": "Nov 25, 2021",
+      "time": "Thursday 9:30 pm",
       "city": "New York",
       "isFeatured": true,
-      "venue": "Manhattan"
+      "venue": "Manhattan",
+      "performers": [
+        {
+          "name": "Gregory Adams",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-1_nhfos5.jpg"
+        },
+        {
+          "name": "Charlie Pauls",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-2_rspsau.jpg"
+        },
+        {
+          "name": "Steve Harver",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068215/user-4_tcvehf.jpg"
+        },
+        {
+          "name": "Will Smith",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068214/user-3_hxfrkp.jpg"
+        },
+        {
+          "name": "Chapelle Dave",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068216/user-5_mmjt4x.jpg"
+        }
+      ]
     },
     {
       "id": 2,
       "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068145/featured-1_m66lk8.jpg",
       "name": "Britney: CRASH The Live Tour 2021",
       "date": "Nov 25, 2021",
+      "time": "Thursday 9:30 pm",
       "city": "Los Angeles",
       "isFeatured": false,
-      "venue": "The Dome"
+      "venue": "The Dome",
+      "performers": [
+        {
+          "name": "Gregory Adams",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-1_nhfos5.jpg"
+        },
+        {
+          "name": "Charlie Pauls",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-2_rspsau.jpg"
+        },
+        {
+          "name": "Steve Harver",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068215/user-4_tcvehf.jpg"
+        },
+        {
+          "name": "Will Smith",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068214/user-3_hxfrkp.jpg"
+        },
+        {
+          "name": "Chapelle Dave",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068216/user-5_mmjt4x.jpg"
+        }
+      ]
     },
     {
       "id": 3,
       "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068182/up-coming-2_vsycss.jpg",
       "name": "Lopez JLO: CRASH The Live Tour 2023",
       "date": "Nov 25, 2021",
+      "time": "Thursday 9:30 pm",
       "city": "Boston",
       "isFeatured": true,
-      "venue": "Arena"
+      "venue": "Arena",
+      "performers": [
+        {
+          "name": "Gregory Adams",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-1_nhfos5.jpg"
+        },
+        {
+          "name": "Charlie Pauls",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-2_rspsau.jpg"
+        },
+        {
+          "name": "Steve Harver",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068215/user-4_tcvehf.jpg"
+        },
+        {
+          "name": "Will Smith",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068214/user-3_hxfrkp.jpg"
+        },
+        {
+          "name": "Chapelle Dave",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068216/user-5_mmjt4x.jpg"
+        }
+      ]
     },
     {
       "id": 4,
       "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068149/featured-3_hdcged.jpg",
       "name": "Tihanna K: CRASH The Live Tour 2022",
       "date": "Nov 25, 2021",
+      "time": "Thursday 9:30 pm",
       "city": "Washington",
       "isFeatured": false,
-      "venue": "Sufolk"
+      "venue": "Sufolk",
+      "performers": [
+        {
+          "name": "Gregory Adams",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-1_nhfos5.jpg"
+        },
+        {
+          "name": "Charlie Pauls",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-2_rspsau.jpg"
+        },
+        {
+          "name": "Steve Harver",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068215/user-4_tcvehf.jpg"
+        },
+        {
+          "name": "Will Smith",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068214/user-3_hxfrkp.jpg"
+        },
+        {
+          "name": "Chapelle Dave",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068216/user-5_mmjt4x.jpg"
+        }
+      ]
     },
     {
       "id": 5,
       "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068145/featured-1_m66lk8.jpg",
       "name": "Tiffany Brit: CRASH The Live Tour 2022",
       "date": "Nov 25, 2021",
+      "time": "Thursday 9:30 pm",
       "city": "San Fransisco",
       "isFeatured": true,
-      "venue": "Carlif"
+      "venue": "Carlif",
+      "performers": [
+        {
+          "name": "Gregory Adams",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-1_nhfos5.jpg"
+        },
+        {
+          "name": "Charlie Pauls",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068213/user-2_rspsau.jpg"
+        },
+        {
+          "name": "Steve Harver",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068215/user-4_tcvehf.jpg"
+        },
+        {
+          "name": "Will Smith",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068214/user-3_hxfrkp.jpg"
+        },
+        {
+          "name": "Chapelle Dave",
+          "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068216/user-5_mmjt4x.jpg"
+        }
+      ]
     }
   ]
 }
