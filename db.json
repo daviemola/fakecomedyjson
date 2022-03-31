@@ -165,5 +165,31 @@
         }
       ]
     }
+  ],
+  "performers": [
+    {
+      "name": "Britney: CRASH The Live Tour 2021",
+      "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068179/up-coming-1_bmprd7.jpg"
+    },
+    {
+      "name": "Britney: CRASH The Live Tour 2021",
+      "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068145/featured-1_m66lk8.jpg"
+    },
+    {
+      "name": "Britney: CRASH The Live Tour 2021",
+      "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068182/up-coming-2_vsycss.jpg"
+    },
+    {
+      "name": "Britney: CRASH The Live Tour 2021",
+      "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068179/up-coming-1_bmprd7.jpg"
+    },
+    {
+      "name": "Britney: CRASH The Live Tour 2021",
+      "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068182/up-coming-2_vsycss.jpg"
+    },
+    {
+      "name": "Britney: CRASH The Live Tour 2021",
+      "image": "https://res.cloudinary.com/df9jrkngw/image/upload/v1648068179/up-coming-1_bmprd7.jpg"
+    }
   ]
 }
